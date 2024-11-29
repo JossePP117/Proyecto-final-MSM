@@ -107,8 +107,8 @@ body {
     /* Botones */
     .boton {
         position: absolute; 
-        top: 600px;         
-        left:640px; 
+        top: 500px;         
+        left:460px; 
         margin-top: 20px;
         padding: 10px 20px;
         font-size: 1rem;
