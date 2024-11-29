@@ -120,6 +120,7 @@ body {
         opacity: 0; /* Inicialmente invisible */
         animation: fadeIn 1.5s ease forwards 3s; /* Aparece después de los textos */
     }
+}    
 
 header {
     background-color: #F4A259;
